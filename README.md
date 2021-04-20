@@ -1,2 +1,2 @@
-# tic-tac-toe
-This is a tic-tac-toe game, based on Next.JS
+# Tic-Tac-Toe
+This is a tic-tac-toe game, based on NextJS
